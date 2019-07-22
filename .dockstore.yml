@@ -1,5 +1,5 @@
 version: this is totally messed up, foobar v99
-service:
+service-of-awesome-messed-up-ness:
   type: docker-compose
   name: UCSC Xena Browser
   author: UCSC Genomics Institute
